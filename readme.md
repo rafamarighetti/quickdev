@@ -7,7 +7,8 @@ Build Restful CRUD API for a blog using Spring Boot, Mysql, JPA and Hibernate.
 
 ## Requerimentos
 
-```Java 17, Apache Maven 3.9.6 e Docker 25
+```Ter instalado 
+Java 17, Apache Maven 3.9.6 e Docker 25
  ```
 
 
