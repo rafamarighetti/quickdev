@@ -7,9 +7,7 @@ Build Restful CRUD API for a blog using Spring Boot, Mysql, JPA and Hibernate.
 
 ## Requerimentos
 
-```Ter instalado 
 Java 17, Apache Maven 3.9.6 e Docker 25
- ```
 
 
 ## Steps to Setup
@@ -31,11 +29,6 @@ run mvn spring-boot
 
 ```
 
-**4. Acesso a aplicação**
-
-```bash
-mvn spring-boot:run
-```
 No endereço de login <http://localhost:8080/auth/login>
 
 No endereço de cadastro <http://localhost:8080/auth/singup>
