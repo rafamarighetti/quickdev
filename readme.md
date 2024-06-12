@@ -2,7 +2,7 @@
 
 # Spring Boot, MySQL, Spring Security, JWT, JPA, Rest API
 
-Build Restful CRUD API for a blog using Spring Boot, Mysql, JPA and Hibernate.
+API Restful CRUD desenvolvida para um blog usando Spring Boot, Mysql, JPA e Hibernate.
 
 
 ## Requerimentos
@@ -10,7 +10,7 @@ Build Restful CRUD API for a blog using Spring Boot, Mysql, JPA and Hibernate.
 Java 17, Apache Maven 3.9.6 e Docker 25
 
 
-## Steps to Setup
+## Etapas do de execução
 
 **1. Clonando o Projeto**
 
